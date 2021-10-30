@@ -1,5 +1,6 @@
-## Math-Magicians
-In this project of the Math Magicians application, I set up the environment and tools needed to develop a React application.
+## MathMagicians
+This is a React project on Math Magicians, In this section of the project, I refactor the Calculator component using hooks application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
