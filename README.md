@@ -79,7 +79,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - React
 
 ## Live Demo
-[Live Demo Link](https://lilianfrancis.com/MathMagicians/)
+[Live Demo Link](https://lilyfrancis-mathmagicians.netlify.app/)
 
 ## Author
 👤 **Lilian Francis**
