@@ -1,3 +1,4 @@
+/* disable eslint linebreak-style */
 import React from 'react';
 import calculate from '../logic/calculate';
 
