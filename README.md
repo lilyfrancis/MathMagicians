@@ -80,6 +80,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Live Demo
 [Live Demo Link](https://lilyfrancis-mathmagicians.netlify.app/)
+[Live Demo Link](https://lily-mathmagician.herokuapp.com/)
 
 ## Author
 👤 **Lilian Francis**
